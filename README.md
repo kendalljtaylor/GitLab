@@ -5,5 +5,5 @@ Repository for Group Bravo - Module 10 Assignment
 - Instructor: Sue Sampson
 - Release Manager: Kendall Taylor
 - Developer 1:
-- Developer 2:
+- Developer 2: Victor Gregory Matos
 - Developer 3: 
